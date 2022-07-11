@@ -1,3 +1,3 @@
 I learn Git with Lucy
 I made a modification in my file
-I modified file thesecond time
+I modified file the second time
