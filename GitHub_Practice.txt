@@ -1,1 +1,3 @@
 I want to go through the whole git flow
+
+I add a new row
