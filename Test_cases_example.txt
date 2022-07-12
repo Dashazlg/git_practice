@@ -1,1 +1,11 @@
-I learn about branches
+name	Sending a comment	
+module	Contact-question	
+action	Expected result	Actual result	
+			
+precondition				
+Open link protesting.ru		Link is opened and available		
+Follow to the link “Make a question”		Page “questions, wishes and applications” opened and available		
+				
+steps				
+fill out the comment form		data entered successfully		
+Send the comment		Page “your applicant sent”		
