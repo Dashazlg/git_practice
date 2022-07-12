@@ -1,0 +1,18 @@
+title	Pop-up window does not disappear untilthe date is not changed
+priority	low
+severity	bloker
+build	
+environment	
+	
+Description:	
+Steps to reproduce	
+1.	Select any dish	
+2.	Go to the basket	
+3.	Select a date next to the last delivery date in the meny	example: menu 8-11 november, select 15 november
+4.	After pop-up “delivery up to 14.11”, click on the “change a date” button	
+5.	Look at the pop-up	
+	
+Expected result:	The pop-up “delivery up to 14.11” does not appear
+Actual result:	The pop-up remains until the date is not changed to the suitable one
+Attachments:	
+	
